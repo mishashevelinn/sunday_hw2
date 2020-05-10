@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sunday_hw.dir/main.c.o CMakeFiles/sunday_hw.dir/League.c.o CMakeFiles/sunday_hw.dir/Match.c.o CMakeFiles/sunday_hw.dir/sort-league.c.o CMakeFiles/sunday_hw.dir/Team.c.o  -o sunday_hw 
